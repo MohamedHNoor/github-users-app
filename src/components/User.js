@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import Card from './Card';
 import Followers from './Followers';
 const User = () => {
-  return <h2>search component</h2>;
+  return <h2>User component</h2>;
 };
 
 const Wrapper = styled.div`
