@@ -11,7 +11,7 @@ const ChartComponent = ({ data }) => {
   const chartConfigs = {
     type: 'bar3d', 
     width: '100%', 
-    height: '400', // Height of the chart
+    height: '400', 
     dataFormat: 'json', // Data type
     dataSource: {
       // Chart Configuration
