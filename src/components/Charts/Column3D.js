@@ -22,7 +22,7 @@ const ChartComponent = ({ data }) => {
     type: 'column3d', // The chart type
     width: '100%', // Width of the chart
     height: '400', // Height of the chart
-    dataFormat: 'json', // Data type
+    dataFormat: 'json', 
     dataSource: {
       // Chart Configuration
       chart: {
