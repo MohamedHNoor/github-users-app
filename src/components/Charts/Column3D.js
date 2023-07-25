@@ -19,7 +19,7 @@ ReactFC.fcRoot(FusionCharts, Chart, FusionTheme);
 
 const ChartComponent = ({ data }) => {
   const chartConfigs = {
-    type: 'column3d', // The chart type
+    type: 'column3d',
     width: '100%', 
     height: '400', 
     dataFormat: 'json', 
