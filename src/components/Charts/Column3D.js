@@ -1,8 +1,6 @@
 import React from 'react';
 import ReactFC from 'react-fusioncharts';
 import FusionCharts from 'fusioncharts';
-
-// Include the chart type
 import Chart from 'fusioncharts/fusioncharts.charts';
 
 // Include the theme as fusion
