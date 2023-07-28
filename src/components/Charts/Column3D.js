@@ -1,4 +1,4 @@
-// Include react
+
 import React from 'react';
 
 // Include the react-fusioncharts component
