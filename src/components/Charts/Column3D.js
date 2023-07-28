@@ -1,7 +1,4 @@
-
 import React from 'react';
-
-// Include the react-fusioncharts component
 import ReactFC from 'react-fusioncharts';
 
 // Include the fusioncharts library
