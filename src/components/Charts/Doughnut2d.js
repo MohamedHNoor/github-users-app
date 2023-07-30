@@ -12,7 +12,7 @@ const ChartComponent = ({ data }) => {
     type: 'doughnut2d',
     width: '100%',
     height: '400',
-    dataFormat: 'json', // Data type
+    dataFormat: 'json', 
     dataSource: {
       // Chart Configuration
       chart: {
