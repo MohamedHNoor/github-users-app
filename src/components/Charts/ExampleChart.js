@@ -11,7 +11,7 @@ const ChartComponent = ({ data }) => {
   const chartConfigs = {
     type: 'column2d', 
     width: '400', 
-    height: '400', // Height of the chart
+    height: '400', 
     dataFormat: 'json', // Data type
     dataSource: {
       // Chart Configuration
