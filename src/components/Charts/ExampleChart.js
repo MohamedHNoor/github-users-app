@@ -14,7 +14,6 @@ const ChartComponent = ({ data }) => {
     height: '400', 
     dataFormat: 'json', 
     dataSource: {
-      // Chart Configuration
       chart: {
         //Set the chart caption
         caption: 'Countries With Most Oil Reserves [2017-18]',
