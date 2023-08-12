@@ -16,7 +16,6 @@ const ChartComponent = ({ data }) => {
     dataSource: {
       chart: {
         caption: 'Countries With Most Oil Reserves [2017-18]',
-        //Set the chart subcaption
         subCaption: 'In MMbbl = One Million barrels',
         //Set the x-axis name
         xAxisName: 'Country',
