@@ -15,7 +15,6 @@ const ChartComponent = ({ data }) => {
     dataFormat: 'json', 
     dataSource: {
       chart: {
-        //Set the chart caption
         caption: 'Countries With Most Oil Reserves [2017-18]',
         //Set the chart subcaption
         subCaption: 'In MMbbl = One Million barrels',
